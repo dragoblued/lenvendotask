@@ -1,0 +1,4 @@
+Примеры запуск команд из консоли:
+1. Добавление команды - php app.php command3 {verbose,a,qwe} [log_file=app.log] {unlimided,dara} [log={asd,dra,sda}]
+2. Вывод описание команды - php app.php {help}
+3. Вывод всех команд - php app.php
